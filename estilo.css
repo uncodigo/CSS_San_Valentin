@@ -62,6 +62,6 @@ h1 span {
 }
 
 @keyframes write {
-    from { width: 100% }
-    to { width:0 }
+    from { width: 100%;}
+    to { width:0;}
 }
